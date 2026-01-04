@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://soundcloud.com/",
+      "permanent": true
+    },
+    {
+      "source": "/sudah-menang-80168/",
+      "destination": "https://majuprima.shop/register",
+      "permanent": true
+    }
+  ]
+}
